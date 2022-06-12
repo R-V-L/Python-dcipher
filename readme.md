@@ -8,7 +8,6 @@
 Clonar repositorio
 ```
 
-
 ## Uso
 
 ```
@@ -32,7 +31,7 @@ python dcipher-python.py 1abcb33beeb811dca15f0ac3e47b88d9 descifrar
 
 ## Creditos
 
-- `python dcipher-` depende de lo siguiente:
+- `python dcipher` depende de lo siguiente:
   - [dcipher](https://github.com/k4m4/dcipher)
   - [Hash Toolkit](https://hashtoolkit.com)
   - [GromWeb](https://md5.gromweb.com)
